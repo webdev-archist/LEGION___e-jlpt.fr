@@ -1,0 +1,11 @@
+/languages
+!/languages/plugins
+!/languages/themes
+
+/upgrade
+!/upgrade/_.txt
+!/upgrade/urls.txt
+
+/uploads
+!/uploads/_.txt
+!/uploads/urls.txt
