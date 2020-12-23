@@ -9,3 +9,7 @@
 /uploads
 !/uploads/_.txt
 !/uploads/urls.txt
+
+/plugins
+!/plugins/_.txt
+!/plugins/urls.txt
